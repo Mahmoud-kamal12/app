@@ -1,8 +1,0 @@
-﻿  StartPage.cpp
-C:\Users\Mahmoud\source\repos\Project13\Project13\admin.h(175,1): error C2653: 'StartPage': is not a class or namespace name
-C:\Users\Mahmoud\source\repos\Project13\Project13\admin.h(177,1): error C2059: syntax error: '}'
-C:\Users\Mahmoud\source\repos\Project13\Project13\StartPage.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
-  admin.cpp
-C:\Users\Mahmoud\source\repos\Project13\Project13\admin.h(175,1): error C2653: 'StartPage': is not a class or namespace name
-C:\Users\Mahmoud\source\repos\Project13\Project13\admin.h(177,1): error C2059: syntax error: '}'
-  Generating Code...
